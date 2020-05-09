@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ejercicio 1</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <nav class="navbar-dark bg-dark">
+    <nav class="navbar-ligth" style="background: #48c9b0">
         <center>
             <span class="navbar-text">
                 Probando GIT :)
@@ -22,7 +23,7 @@
         <br><br>
 
         <!-- Formulario -->
-        <form action="index.php" method="post">
+        <form action="index.php" method="post" class="fondo">
             <div class="row">
                 <div class="col-12">
                     <div class="row">

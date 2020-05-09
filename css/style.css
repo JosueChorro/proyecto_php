@@ -1,0 +1,9 @@
+body{
+    background:   #f2f3f4 ;
+}
+
+.fondo{
+    background-image: url(../img/background.jpg);
+	background-repeat: repeat;
+	background-image: url(../img/background.jpg);
+}
